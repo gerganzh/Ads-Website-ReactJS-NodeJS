@@ -1,0 +1,88 @@
+.containerR{
+    width: 500px;
+    border: 25px;
+    border-radius: 25px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #0087BD;
+    margin-top: 160px;
+ }
+ label[id="RegLabels"]{
+     color: seashell;
+ }
+ .form-inputR input[name="username"]{
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    background-color: seashell;
+    color: black;
+    font-size: medium;
+    margin-top: 80px;
+    height: 45px;
+    padding: 20px;
+    width: 300px;
+}
+.form-inputR input[name="email"] {
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    padding: 20px;
+    background-color: seashell;
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    height: 45px;
+    width: 300px;
+}
+.form-inputR input[name="password"]{
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    padding: 20px;
+    background-color: seashell;
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    height: 45px;
+    width: 300px;
+}
+.form-inputR input[name="confirmpassword"]{
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    padding: 20px;
+    background-color: seashell;
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    height: 45px;
+    width: 300px;
+}
+.form-inputR input[name="username"]:focus{
+    outline: none;
+}
+.form-inputR input[name="password"]:focus{
+    outline: none;
+}
+.form-inputR input[name="confirmpassword"]:focus{
+    outline: none;
+}
+.form-inputR input[name="email"]:focus{
+    outline: none;
+}
+.btn-register1{
+    margin-top : 10px;
+    padding: 15px 65px;
+    border: none;
+    background-color: #224C98;
+    font-size: 20px;
+    color: seashell;
+    border: 25px;
+    border-radius: 25px;
+   
+}
+.btn-register1:hover{
+    background-color:#224C98;
+    color: seashell;
+}
+.error-msg-cont{
+    margin-top: 5px;
+    color: #224C98;
+}

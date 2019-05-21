@@ -1,0 +1,6 @@
+#grid {
+    display: grid;
+    height: 100px;
+    grid-template-rows: 30px 1fr;
+  }
+  

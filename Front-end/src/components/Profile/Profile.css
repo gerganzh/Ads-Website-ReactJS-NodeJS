@@ -1,0 +1,9 @@
+.line{
+   display: block;
+   border-width: 5px;
+   color: #224C98;
+}
+
+.btnLogOut{
+   color: blue;
+}

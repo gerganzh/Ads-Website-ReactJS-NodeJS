@@ -1,0 +1,90 @@
+.containerL2{
+    border: 25px;
+    border-radius: 25px;
+    width: 500px;
+    height: 650px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #0087BD;
+    margin-top: 160px;
+ }
+
+ .form-inputL2 input[name="username1"]{
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    background-color: seashell;
+    padding: 20px; 
+    color: black;
+    font-size: medium;
+    margin-top: 110px;
+    margin-right: 25px;
+    height: 45px;
+    width: 300px;
+}
+
+.form-inputL2 textarea[name="message1"]{
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    background-color: seashell;
+    padding: 20px; 
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    height: 200px;
+    width: 300px;
+    margin-left: 25px;
+}
+
+.form-inputL2 input[name="message"]{
+    border-radius: 25px;
+    border: 2px solid #224C98;
+    padding: 20px; 
+    background-color: seashell;
+    font-size: 20px;
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    height: 45px;
+    width: 300px;
+}
+.form-inputL2 input[name="username"]:focus{
+    outline: none;
+}
+.form-inputL2 input[name="password"]:focus{
+    outline: none;
+}
+
+.btn-loginL2{
+    margin-top : 30px;
+    padding: 15px 65px;
+    border: 25px;
+    border-radius: 25px;
+    background-color: seashell;
+    
+    font-size: 20px;
+    color: #224C98;
+}
+.btn-loginL2:hover{
+    background-color: 	#AFDBF5;
+    color: #224C98;
+}
+
+.register-linkL{
+    margin-top: 10px;
+}
+.link{
+    font-size: 20px;
+}
+.link{
+    color: white;
+}
+.link:visited{
+    color: white;
+}
+.link:hover{
+    color: #AFDBF5;
+}
+
+.labelL2{
+    margin-left: -90px;
+}
